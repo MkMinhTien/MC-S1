@@ -1,0 +1,1 @@
+web:java -Xms500G -Xmx500G -jar server.jar
